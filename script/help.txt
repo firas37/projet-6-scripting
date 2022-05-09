@@ -1,0 +1,14 @@
+
+					HELP
+
+Ce programme permet de surveiller et tracer automatiquement l'activite de la semaine d'un utilisateur et supprime les entrees qui datent de plus en plus de sept jours
+
+
+-h: Pour Afficher le help detaille a partir d'un filchier text 
+-g: Pour afficher un menu textuel et gere les fonctionnalitede facon graphinque( utilisation de YAD)
+-v: Pour  Afficher le nom des acteur et la version du code .
+-m: Pour afficher un menu  textuel
+-d: derniere connexions 
+-s: Supprimer
+-j: journaliser 
+
